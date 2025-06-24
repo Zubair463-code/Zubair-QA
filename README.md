@@ -21,7 +21,7 @@ A comprehensive test management tool designed for organizing test cases, executi
 
 ## Processes:
 
-###** Requirement Analysis**: 
+### ** Requirement Analysis**: 
 Thoroughly review software requirements specifications (SRS) to understand the intended functionality and identify areas to test.
 
 ### **Test Plan Creation**:
@@ -33,7 +33,7 @@ Execute the test cases in a controlled environment, comparing actual results wit
 ### **Defect Logging:**
 Identify and log defects in a bug tracking system, providing clear descriptions, steps to reproduce, and severity levels to facilitate resolution
 
-### **Defect Fix & Re-verification: **
+### **Defect Fix and Re-verification**
 Once defects are fixed, re-execute the affected test cases to verify that the issues have been resolved and perform regression testing to ensure no new defects have been introduced.
 
 # **Area of Expertise**:
