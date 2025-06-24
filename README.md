@@ -52,7 +52,32 @@ Once defects are fixed, re-execute the affected test cases to verify that the is
 
 **Test Documentation:** Creating and maintaining test plans and reports
 
-**Collaboration Tools**: Notion, Trello, Slack
+**Collaboration Tools**: Notion, Trello, Slack.
+
+## 🧪 Manual Testing Experience
+
+I have conducted comprehensive manual QA testing across various platforms, focusing on:
+
+# 🌐 Web Applications (MERN Stack)
+
+- **Frontend Testing**: Validated UI components for functionality and responsiveness.
+- **Backend Testing**: Assessed API endpoints for accurate data processing.
+- **Database Testing**: Ensured data integrity and proper CRUD operations.
+
+### 📱 Mobile Applications (Android & iOS)
+
+- **Functional Testing**: Verified app features and user interactions.
+- **Performance Testing**: Evaluated app speed and stability.
+- **Compatibility Testing**: Tested across various devices and OS versions.
+- **Interrupt Testing**: Assessed app behavior during incoming calls and notifications.
+
+### 💳 Payment Gateway Integrations
+
+- **Stripe & Apple Pay**: Tested payment flows, including transactions and refunds.
+- **Security Testing**: Ensured secure data transmission and compliance with standards.
+- **Cross-Platform Testing**: Validated payment functionalities on web and mobile platforms.
+
+
 
 
 
