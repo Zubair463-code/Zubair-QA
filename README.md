@@ -19,7 +19,7 @@ It includes structured bug reports, test case documentation, and supporting scre
 ### **TestRail:**
 A comprehensive test management tool designed for organizing test cases, executing tests, and tracking results, ensuring efficient test planning and execution.
 
-**## Processes:**
+## **Processes**
 
 ### **Requirement Analysis:**
 Thoroughly review software requirements specifications (SRS) to understand the intended functionality and identify areas to test.
