@@ -10,7 +10,7 @@ It includes structured bug reports, test case documentation, and supporting scre
 
 ## Tools:
 
-###**JIRA:**
+### **JIRA:**
  A widely-used project management and issue tracking tool that helps in logging, tracking, and managing defects throughout the software development lifecycle
 
 ### **Postman:**
