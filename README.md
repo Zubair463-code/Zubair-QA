@@ -79,9 +79,11 @@ I have conducted comprehensive manual QA testing across various platforms, focus
 
  # **❓ Why Me?**
 
-- **Real-world experience**: Tested MERN-stack web apps and Android/iOS apps manually—covering UI, backend APIs, database integrity, and mobile-specific behavior.
+- ### **Real-world experience**:
+- Tested MERN-stack web apps and Android/iOS apps manually—covering UI, backend APIs, database integrity, and mobile-specific behavior.
 
-- **Payment gateway expertise**: Thoroughly tested integrations like Stripe and Apple Pay across platforms, validating transaction accuracy and security.
+- ### **Payment gateway expertise**:
+-  Thoroughly tested integrations like Stripe and Apple Pay across platforms, validating transaction accuracy and security.
 
 - **Clear, structured testing**: Create detailed test plans, cases, and bug reports using tools like JIRA and TestRail—demonstrating thoroughness and professionalism.
 
