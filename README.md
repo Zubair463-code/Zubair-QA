@@ -95,7 +95,7 @@ I have conducted comprehensive manual QA testing across various platforms, focus
 -  Quick to adapt to new environments; passionate about ensuring seamless UX and robust functionality.
 
 ### **Committed to quality**:
-My GitHub portfolio stands as proof of my structured testing process, proactive problem-solving, and drive to improve software standards. 📈
+-  My GitHub portfolio stands as proof of my structured testing process, proactive problem-solving, and drive to improve software standards. 📈
 
 
 
