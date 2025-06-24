@@ -77,7 +77,7 @@ I have conducted comprehensive manual QA testing across various platforms, focus
 - **Security Testing**: Ensured secure data transmission and compliance with standards.
 - **Cross-Platform Testing**: Validated payment functionalities on web and mobile platforms.
 
-  # ❓ Why Me?
+ # **❓ Why Me?**
 
 - **Real-world experience**: Tested MERN-stack web apps and Android/iOS apps manually—covering UI, backend APIs, database integrity, and mobile-specific behavior.
 
