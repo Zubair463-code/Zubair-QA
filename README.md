@@ -54,11 +54,11 @@ Once defects are fixed, re-execute the affected test cases to verify that the is
 
 **Collaboration Tools**: Notion, Trello, Slack.
 
-## 🧪 Manual Testing Experience
+# **🧪 Manual Testing Experience**
 
 I have conducted comprehensive manual QA testing across various platforms, focusing on:
 
-# 🌐 Web Applications (MERN Stack)
+## 🌐 Web Applications (MERN Stack)
 
 - **Frontend Testing**: Validated UI components for functionality and responsiveness.
 - **Backend Testing**: Assessed API endpoints for accurate data processing.
