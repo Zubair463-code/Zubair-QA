@@ -19,7 +19,7 @@ It includes structured bug reports, test case documentation, and supporting scre
 ### **TestRail:**
 A comprehensive test management tool designed for organizing test cases, executing tests, and tracking results, ensuring efficient test planning and execution.
 
-## **🔄 Processes  **
+**## Processes:**
 
 ### **Requirement Analysis:**
 Thoroughly review software requirements specifications (SRS) to understand the intended functionality and identify areas to test.
@@ -58,7 +58,7 @@ Once defects are fixed, re-execute the affected test cases to verify that the is
 
 I have conducted comprehensive manual QA testing across various platforms, focusing on:
 
-## 🌐 Web Applications (MERN Stack)
+### 🌐 Web Applications (MERN Stack)
 
 - **Frontend Testing**: Validated UI components for functionality and responsiveness.
 - **Backend Testing**: Assessed API endpoints for accurate data processing.
