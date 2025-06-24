@@ -21,7 +21,7 @@ A comprehensive test management tool designed for organizing test cases, executi
 
 ## Processes:
 
-### ** Requirement Analysis**: 
+### **Requirement Analysis:**
 Thoroughly review software requirements specifications (SRS) to understand the intended functionality and identify areas to test.
 
 ### **Test Plan Creation**:
