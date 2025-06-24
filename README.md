@@ -36,7 +36,7 @@ Identify and log defects in a bug tracking system, providing clear descriptions,
 ### **Defect Fix and Re-verification**
 Once defects are fixed, re-execute the affected test cases to verify that the issues have been resolved and perform regression testing to ensure no new defects have been introduced.
 
-# **Area of Expertise**:
+# **🛠️ Area of Expertise**
 
 **Manual Testing**: Functional, Regression, Exploratory, Smoke, Sanity Testing
 
