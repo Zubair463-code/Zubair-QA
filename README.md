@@ -79,19 +79,23 @@ I have conducted comprehensive manual QA testing across various platforms, focus
 
  # **❓ Why Me?**
 
-- ### **Real-world experience**:
+ ### **Real-world experience**:
 - Tested MERN-stack web apps and Android/iOS apps manually—covering UI, backend APIs, database integrity, and mobile-specific behavior.
 
-- ### **Payment gateway expertise**:
+ ### **Payment gateway expertise**:
 -  Thoroughly tested integrations like Stripe and Apple Pay across platforms, validating transaction accuracy and security.
 
-- **Clear, structured testing**: Create detailed test plans, cases, and bug reports using tools like JIRA and TestRail—demonstrating thoroughness and professionalism.
+### **Clear, structured testing**:
+-  Create detailed test plans, cases, and bug reports using tools like JIRA and TestRail—demonstrating thoroughness and professionalism.
 
-- **Agile collaboration**: Experienced in Scrum and Kanban workflows, working with teams via Trello, Notion, Slack, and GitHub.
+### **Agile collaboration**:
+-  Experienced in Scrum and Kanban workflows, working with teams via Trello, Notion, Slack, and GitHub.
 
-- **Fast learner & detail-oriented**: Quick to adapt to new environments; passionate about ensuring seamless UX and robust functionality.
+### **Fast learner & detail-oriented**:
+-  Quick to adapt to new environments; passionate about ensuring seamless UX and robust functionality.
 
-- **Committed to quality**: My GitHub portfolio stands as proof of my structured testing process, proactive problem-solving, and drive to improve software standards. 📈
+### **Committed to quality**:
+My GitHub portfolio stands as proof of my structured testing process, proactive problem-solving, and drive to improve software standards. 📈
 
 
 
