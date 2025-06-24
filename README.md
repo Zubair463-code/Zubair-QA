@@ -6,7 +6,7 @@ My mission is to detect bugs, usability issues, integration flaws, and security-
 This repository showcases my manual QA work on real applications using mobile and desktop environments.
 It includes structured bug reports, test case documentation, and supporting screenshots or video proof.
 
-## **Tools & Processes**
+# **🔧 Tools & Processes**
 
 ## Tools:
 
@@ -19,7 +19,7 @@ It includes structured bug reports, test case documentation, and supporting scre
 ### **TestRail:**
 A comprehensive test management tool designed for organizing test cases, executing tests, and tracking results, ensuring efficient test planning and execution.
 
-## Processes:
+## **🔄 Processes  **
 
 ### **Requirement Analysis:**
 Thoroughly review software requirements specifications (SRS) to understand the intended functionality and identify areas to test.
